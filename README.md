@@ -20,10 +20,10 @@ Andrieu, Eliahou, and Vivion, A Normality Conjecture on Rational Base Number Sys
 
 ## Experiments_from_the_authors
 
-- `Tables_exp1/`: Experiment 1 of the paper. Tables for the richness threshold and the deviation from uniformity of all  minimal words with valuation-seed 1 and length 10**9, for all 1 < q < p < 10
-- `Tables_exp2/`: Experiment 2 of the paper. Tables for the richness threshold and the deviation from uniformity for 20 randomly chosen minimal words of length 10**9 in bases 3/2, 7/2, 8/3, 8/5, 11/3, and 26/6. The list of random seeds is provided.
-- `Source_data_exp3/`: Tables of the 5x10000 randomly choosen seeds generated for Experiment 3.
-- `Figures_exp3/`: Experiment 3. Figures of richness thresholds and deviation from uniformity for 10000 randomly chosen minimal words of length 10**5 in bases 3/2, 7/2, 5/3, 11/3, 6/5.
+- `Tables_exp1/`: Experiment 1 of the paper. Tables for the richness thresholds and the deviations from uniformity of all  minimal words with valuation-seed 1 and length 10**6, for every pair of coprime integers p and q such that 1 < q < p < 10.
+- `Tables_exp2/`: Experiment 2 of the paper. Tables for the richness thresholds and the deviations from uniformity for 20 randomly chosen minimal words of length 10**6 in bases 3/2, 7/2, 8/3, 8/5, 11/3, and 26/6. The list of random seeds is provided.
+- `Source_data_exp3/`: Tables of the 5x10000 randomly chosen seeds generated for Experiment 3.
+- `Figures_exp3/`: Experiment 3. Figures of the richness thresholds and the deviations from uniformity for 10000 randomly chosen minimal words of length 10**5 in bases 3/2, 7/2, 5/3, 11/3, 6/5.
 
 
 
