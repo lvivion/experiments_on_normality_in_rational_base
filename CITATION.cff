@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Andrieu"
+  given-names: "Mélodie"
+- family-names: "Eliahou"
+  given-names: "Shalom"
+- family-names: "Vivion"
+  given-names: "Léo"
+title: "A normality conjecture on rational base number systems: source code and complete experiments"
+type: software
+version: 1.0.0
+date-released: 2026-04-02
+url: "https://github.com/lvivion/experiments_on_normality_in_rational_base"
+license: MIT
+
+abstract: >
+  This repository contains the python scripts used to generate the results and figures in the mathematical article "A Normality Conjecture on Rational Base Number Systems" by Andrieu, Eliahou, Vivion, 2025. It also contains numerous additional figures that could not be published in the paper.
